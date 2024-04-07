@@ -25,8 +25,7 @@ const WorkCard = ({ title, description, imageURL, websiteURL }) => {
             alt={title}
             className="w-full h-full object-cover rounded-t-lg"
           />
-          <div className="absolute inset-0 flex items-center justify-center">
-  </div>
+          <div className="absolute inset-0 flex items-center justify-center"></div>
         </div>
         <div
           onClick={handleClick}

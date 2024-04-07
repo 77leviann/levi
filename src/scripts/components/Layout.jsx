@@ -9,7 +9,7 @@ const Layout = ({ children, isHome }) => {
       {isHome && <NavBar />}
       <main className="flex-1">{children}</main>
       <ScrollToTopButton />
-      <Footer/>
+      <Footer />
     </div>
   );
 };

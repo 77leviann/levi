@@ -8,6 +8,7 @@ export default {
     extend: {
       backgroundImage: {
         'hero-pattern': "url('/src/assets/images/hero-pattern.png')",
+        'welcome-pattern': "url('/src/assets/images/welcome-pattern.png')",
       },
       fontFamily: {
         sans: ['Inter', 'sans-serif'],

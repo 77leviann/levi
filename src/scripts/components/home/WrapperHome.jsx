@@ -4,7 +4,7 @@ import Experience from "@components/home/Experience";
 import TechStack from "@components/home/TechStack";
 import LatestWork from "@components/home/LatestWork";
 
-const Home = () => {
+const WrapperHome = () => {
   return (
     <Layout isHome={true}>
       <Hero />
@@ -15,4 +15,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default WrapperHome;

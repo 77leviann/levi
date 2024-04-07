@@ -1,5 +1,5 @@
-import ScrollToTop from 'react-scroll-up';
-import { AiOutlineArrowUp } from 'react-icons/ai';
+import ScrollToTop from "react-scroll-up";
+import { AiOutlineArrowUp } from "react-icons/ai";
 
 const ScrollToTopButton = () => {
   return (
